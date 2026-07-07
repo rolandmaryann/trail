@@ -13,7 +13,7 @@
 body {
   margin: 0;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, red, orange);
+  background: linear-gradient(135deg, rgb(123, 99, 231), rgb(146, 169, 204));
   color: var(--text);
   min-height: 100vh;
   display: flex;
